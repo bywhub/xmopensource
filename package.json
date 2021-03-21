@@ -1,0 +1,22 @@
+{
+  "name": "xmopensource",
+  "version": "0.0.2",
+  "description": "xmfe-zero",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bywhub/xmopensource.git"
+  },
+  "keywords": [
+    "zero"
+  ],
+  "author": "https://github.com/bywhub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bywhub/xmopensource/issues"
+  },
+  "homepage": "https://github.com/bywhub/xmopensource#readme"
+}
